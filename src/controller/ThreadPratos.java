@@ -43,6 +43,8 @@ private void pratoEmProducao() {
 	int tempoProducao =0;
 	 double percentual=0.0;
 	 int tempoDecorrido=0;
+	 
+	 //Código teste para ser inserido na classe controller
 	
 	if(idPrato%2==0){
 		nomePrato ="Lasanha";
